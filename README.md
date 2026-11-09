@@ -2,7 +2,7 @@
 
 ## Software Engineering Student 
 
-I am a Software Engineering student at **Addis Ababa University (CTBE)** who has completed the third year of study. I enjoy building software that solves real-world problems and continuously improving my skills through academic, individual, and group projects.
+I am a 4th year Software Engineering student at **Addis Ababa University (CTBE)** . I enjoy building software that solves real-world problems and continuously improving my skills through academic, individual, and group projects.
 
 Currently, I am interested in:
 
